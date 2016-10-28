@@ -1,0 +1,52 @@
+
+
+    <section class="wx96Diy" data-source="bj.96weixin.com" style="margin: 0px; padding-right: 0px; padding-left: 0px; font-family: &#39;Helvetica Neue&#39;, Helvetica, &#39;Hiragino Sans GB&#39;, &#39;Microsoft YaHei&#39;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; white-space: normal;">
+        <section class="wx96Diy" data-source="bj.96weixin.com" style="margin: 0px; border-image-source: none;">
+            <section class="wx96Diy" data-source="bj.96weixin.com" style="margin: 0px; border-image-source: none;">
+                <p style="padding: 0px; clear: both;">
+                    <img src="https://mmbiz.qlogo.cn/mmbiz/rAjaC6GJNEp5GCKRDUKibyibVBx6rcCS2jYRYqSbyFmCpl2K90vYf5no2yyvZZu4g7jrcXuiaQRMoeZVhoT6C6iaow/0?wx_fmt=png" data-ratio="0.02443609022556391" data-w="532" data-type="png" data-s="300,640" style="margin: 0px; padding: 0px; height: auto !important;"/><br style="margin: 0px; padding: 0px;"/>
+                </p>
+            </section>
+        </section>
+        <section class="wx96Diy" data-source="bj.96weixin.com" style="margin: 0px; border-image-source: none;">
+            <section class="96wxDiy" style="margin: 0px auto; padding: 0px; width: 490px; overflow: hidden; clear: both;">
+                <section style="margin: 0.5em auto; padding: 0px;">
+                    <section style="margin: -5px 5px 0px 0px; padding: 0px; width: 16px; float: left; height: auto !important;">
+                        <p style="padding: 0px; clear: both; letter-spacing: -1px; font-size: 24px; display: inline-block;">
+                            回向
+                        </p>
+                    </section>
+                    <section class="96wx-bdlc" style="margin: 2px 0px 0px 30px; padding: 0px 0px 0px 8px; width: auto; line-height: 1.3em; border-left-color: rgba(59, 163, 49, 0.952941); border-left-width: 2px; border-left-style: solid;">
+                        <p style="padding: 0px; clear: none;">
+                            愿此殊胜功德
+                        </p>
+                        <p style="padding: 0px; clear: none;">
+                            回向法界有情
+                        </p>
+                        <p style="padding: 0px; clear: none;">
+                            净除一切罪障
+                        </p>
+                        <p style="padding: 0px; clear: none;">
+                            共成无上菩提
+                        </p>
+                    </section>
+                </section>
+            </section>
+        </section>
+    </section>
+    <section class="wx96Diy" data-source="bj.96weixin.com" style="margin: 0px; padding-right: 0px; padding-left: 0px; line-height: 25.6px; white-space: normal;">
+        <section class="wx96Diy" data-source="bj.96weixin.com" style="margin: 0px; border-image-source: none;">
+            <section class="wx96Diy" data-ele="" style="margin: 0px; padding-right: 0px; padding-left: 0px; border: 0px currentcolor; border-image-source: none;">
+                <section style="margin: 10px 0px; padding: 0px; box-sizing: border-box;">
+                    <section style="margin: 0px; padding: 0px; width: 50px; box-sizing: border-box;">
+                        <img src="https://mmbiz.qlogo.cn/mmbiz/rAjaC6GJNEp5GCKRDUKibyibVBx6rcCS2j9RrBjuNnudskgq0wFfEDBQ0HRqQuzXkXJx2pGDCVZfI6FEQbKZYZAA/0?wx_fmt=png" data-ratio="1.06" data-w="50" data-type="png" data-s="300,640" style="margin: 0px; padding: 0px; width: auto; text-align: justify; color: inherit; line-height: 1.5em; text-indent: 2em; height: auto !important;"/>
+                    </section>
+                    <section style="margin: -30px 0px 0px 25px; padding: 20px; border-radius: 15px; border: 1px solid rgb(0, 0, 0); border-image-source: none; color: rgb(30, 136, 225); box-sizing: border-box !important;">
+                        <p style="padding: 0px; clear: both; text-align: justify; color: inherit; line-height: 1.5em; text-indent: 2em;">
+                            现在，请继续单击“写留言”进行一句话听闻分享吧。
+                        </p>
+                    </section>
+                </section>
+            </section>
+        </section>
+    </section>
